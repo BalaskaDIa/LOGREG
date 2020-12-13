@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="e_mail" type="id" />
+    <item name="regist" type="id" />
+    <item name="login" type="id" />
+    <item name="jelszo" type="id" />
+    <item name="felh" type="id" />
+    <item name="logout" type="id" />
+    <item name="back" type="id" />
+    <item name="reg" type="id" />
+    <item name="name" type="id" />
+</resources>
